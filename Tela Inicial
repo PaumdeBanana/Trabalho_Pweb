@@ -30,6 +30,11 @@
     .nav-item {
         color: white;
     }
+
+    b {
+        text-shadow: 0px 0px 5px black;
+        font-size: larger;
+    }
 </style>
 
 <body>
